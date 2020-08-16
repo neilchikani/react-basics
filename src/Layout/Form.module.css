@@ -1,0 +1,14 @@
+.InputWrapper {
+  margin-bottom: 20px;
+  display: flex;
+  margin: 0 -10px 20px;
+}
+.FormWrapper {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.InputController {
+  width: 100%;
+  margin: 0 5px;
+}
